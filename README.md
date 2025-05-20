@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ➡️ About Me:
 I want to make lots of programs!<br>Currently brainstorming my next game idea (and learning how to code)
 
 
@@ -12,7 +12,7 @@ I want to make lots of programs!<br>Currently brainstorming my next game idea (a
 ![](https://nirzak-streak-stats.vercel.app/?user=DanGarbageCanMan&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanGarbageCanMan&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
